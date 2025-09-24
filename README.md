@@ -1,4 +1,4 @@
-<img width="1561" height="224" alt="image" src="https://github.com/user-attachments/assets/046f5492-39c5-4aa6-bb64-d082f84703ff" /># Campus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM)
 
 A console-based *Java SE* application to manage students, courses, enrollments, and transcripts for an institute.  
 This project demonstrates *OOP concepts, Java SE APIs, exception handling, design patterns, and file operations* — all without using a database (data is stored in in-memory lists).
@@ -39,8 +39,8 @@ This project demonstrates *OOP concepts, Java SE APIs, exception handling, desig
 
 ## Screenshots
 ![Screenshot 1](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005701.png?raw=true)
-![Screenshot 2]((https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005913.png?raw=true))
-![Screenshot 3]((https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005930.png?raw=true))
+![Screenshot 2](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005913.png?raw=true)
+![Screenshot 3](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005930.png?raw=true)
 ![Screenshot 4](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20010040.png?raw=true)
 
 ## Demo Video Link
