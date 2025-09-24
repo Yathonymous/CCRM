@@ -38,7 +38,7 @@ This project demonstrates *OOP concepts, Java SE APIs, exception handling, desig
 ---
 
 ## Screenshots
-![Screenshot 1]((https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005701.png))
+![Screenshot 1](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005701.png?raw=true)
 ![Screenshot 2]((https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005913.png?raw=true))
 ![Screenshot 3]((https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20005930.png?raw=true))
 ![Screenshot 4](https://github.com/Yathonymous/CCRM/blob/main/ccrm/screenshots/Screenshot%202025-09-25%20010040.png?raw=true)
